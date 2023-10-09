@@ -2,6 +2,8 @@
 
 Read the Rainbowprint in pdf format [here](https://github.com/ivanmolto/web3-rainbowprint/blob/master/Rainbowprint.pdf)
 
+Celo - Best inclusive blueprint winner 🏆
+
 This blueprint document consists of a range of equality plans that entities and governments from cities can use to establish general principles for  LGBTQ+ actions and responsibility programs using the Celo blockchain as the enabler.
 
 We live in a world where +60 countries still have laws criminalizing the LGBTQ+ community. However, recent years have also seen significant advances in countries across the globe, with LGBTQ+ politicians occupying leadership roles and same-sex marriage legally recognized in more and more countries.
